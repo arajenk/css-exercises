@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+p{
+    background-color: rgb(243, 158, 172);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+.para2{
+    font-size: 24px;
+}
+
+#div2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
